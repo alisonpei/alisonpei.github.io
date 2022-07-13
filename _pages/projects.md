@@ -1,7 +1,7 @@
 ---
 layout: archive
 ttitle: "Projects"
-permalink: /prpjects/
+permalink: /projects/
 author_profile: true
 ---
 
