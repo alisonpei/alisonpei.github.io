@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
@@ -21,6 +21,3 @@ with Matthew Johnson and Michael Lipsitz
 ### [OSHA Inspections, Productivity, and Management]
 with Nicholas Bloom, David Levine and Matthew Johnson. 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
