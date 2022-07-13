@@ -10,4 +10,4 @@ redirect_from:
 
 This is Alison Pei's Personal Website.
 
-Lorem ipsum
+PhD Candidate
