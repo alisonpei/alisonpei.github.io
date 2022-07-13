@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, Nankai University, 2017
+* M.S. in Applied Economocs and Management, Cornell University, 2019
+* Ph.D in Economics & Public Policy, Duke University, 2024 (expected)
 
-Work experience
+Research experience
 ======
 * Summer 2015: Research Assistant
   * Github University
