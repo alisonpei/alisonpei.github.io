@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a 4th-year PhD Candidate at Duke University. My interest is at the intersection of Labor Economics and Industrial Organization. My current research projects fall into three categories: 
+Hello! I am a 3rd-year PhD Candidate at Duke University. My interest is at the intersection of Labor Economics and Industrial Organization. My current research projects fall into three categories: 
 * Monopsony power in the high-skilled foreign labor market; 
 * The role of non-compete enforceability in shaping the directions and outcomes of innovation; 
 * Policies that improve the allocation efficiency of high-skilled workers across firms. 
