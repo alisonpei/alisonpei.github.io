@@ -4,11 +4,11 @@ main:
   - title: "Research"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
-  - title: "Conference Presentations"
-    url: /talks/    
+  #- title: "Conference Presentations"
+  #  url: /talks/    
         
   - title: "CV"
     url: /cv/
