@@ -16,8 +16,8 @@ author_profile: true
 with Seohee Kim 
 
 ### The Enforceability of Noncompete Agreements and Innovation: Evidence from State Law Changes
-with Matthew Johnson and Michael Lipsitz
+with [Matthew Johnson](https://sites.google.com/site/mslaterjohnson/) and [Michael Lipsitz](https://sites.google.com/site/malipsitz/)
 
 ### OSHA Inspections, Productivity, and Management
-with Nicholas Bloom, David Levine and Matthew Johnson. 
+with [Nicholas Bloom](https://nbloom.people.stanford.edu), [David Levine](http://faculty.haas.berkeley.edu/levine/) and [Matthew Johnson](https://sites.google.com/site/mslaterjohnson/)
 
