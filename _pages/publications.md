@@ -14,7 +14,7 @@ author_profile: true
 
 ### [Monopsony in the High-Skilled Migrant Labor Market-Evidence from H-1B Petition Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4010152)
 with Seohee Kim \
-Presented at _WEAI_, 2022; _MEA_, 2022
+Presented at _WEAI 2022_; _MEA 2022_
 
 ### The Enforceability of Noncompete Agreements and Innovation: Evidence from State Law Changes
 with [Matthew Johnson](https://sites.google.com/site/mslaterjohnson/) and [Michael Lipsitz](https://sites.google.com/site/malipsitz/)
