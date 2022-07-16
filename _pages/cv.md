@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+PDF version [here](https://alisonpei.github.io/files/Alison_Pei_CV.pdf).
+
 {% include base_path %}
 
 Education
