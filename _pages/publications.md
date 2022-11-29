@@ -17,7 +17,7 @@ with Seohee Kim \
 Presented at _Wharton Migration and Organizations Conference 2022_; _WEAI 2022_; _MEA 2022_
 
 ### The Enforceability of Noncompete Agreements and Innovation: Evidence from State Law Changes
-with [Matthew Johnson](https://sites.google.com/site/mslaterjohnson/) and [Michael Lipsitz](https://sites.google.com/site/malipsitz/)
+with [Matthew Johnson](https://sites.google.com/site/mslaterjohnson/) and [Michael Lipsitz](https://sites.google.com/site/malipsitz/) \
 Presented at _Wharton People and Organizations Conference 2022_; _APPAM 2022_
 
 
