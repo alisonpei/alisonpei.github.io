@@ -11,5 +11,5 @@ redirect_from:
 Hello! I am a joint Economics and Public Policy PhD Candidate at Duke University. My interest lies at the intersection of Labor Economics and Industrial Organization. My research focuses on the role of labor market monopsony in shaping the dynamics and outcomes of innovation and entrepreneurship.
 
 
-You can contact me at: [xp25@duke.edu](mailto:xp25@duke.edu)
+You can contact me at: [xinyue.pei@duke.edu](mailto:xinyue.pei@duke.edu)
 
