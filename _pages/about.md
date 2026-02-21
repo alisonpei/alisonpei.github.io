@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a joint Economics and Public Policy PhD Candidate at Duke University. My interest lies at the intersection of Labor Economics and Industrial Organization. My research focuses on the role of labor market monopsony in shaping the dynamics and outcomes of innovation and entrepreneurship.
+Hello! I completed a joint Economics and Public Policy PhD at Duke University. My interest lies at the intersection of Labor Economics and Industrial Organization. My research focuses on the role of labor market monopsony in shaping the dynamics and outcomes of innovation and entrepreneurship.
 
 I am currently an economist in Charles River Associates' Antitrust and Competition practice in Boston.
 
